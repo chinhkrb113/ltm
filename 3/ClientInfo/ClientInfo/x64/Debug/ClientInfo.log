@@ -1,3 +1,0 @@
-﻿  ClientInfo.cpp
-C:\Users\CHINH.LT198209\source\repos\ltm\3\ClientInfo\ClientInfo\ClientInfo.cpp(76,57): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
-  ClientInfo.vcxproj -> C:\Users\CHINH.LT198209\source\repos\ltm\3\ClientInfo\x64\Debug\ClientInfo.exe
