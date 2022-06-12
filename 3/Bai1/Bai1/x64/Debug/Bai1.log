@@ -1,15 +1,1 @@
-﻿  Bai1.cpp
-C:\Users\CHINH.LT198209\source\repos\ltm\3\ServerChat\Bai1\Bai1.cpp(39,11): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'SOCKET'
-C:\Users\CHINH.LT198209\source\repos\ltm\3\ServerChat\Bai1\Bai1.cpp(39,11): message : consider using '%lld' in the format string
-C:\Users\CHINH.LT198209\source\repos\ltm\3\ServerChat\Bai1\Bai1.cpp(39,11): message : consider using '%Id' in the format string
-C:\Users\CHINH.LT198209\source\repos\ltm\3\ServerChat\Bai1\Bai1.cpp(39,11): message : consider using '%I64d' in the format string
-C:\Users\CHINH.LT198209\source\repos\ltm\3\ServerChat\Bai1\Bai1.cpp(52,13): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type '_Ty1'
-          with
-          [
-              _Ty1=SOCKET
-          ]
-C:\Users\CHINH.LT198209\source\repos\ltm\3\ServerChat\Bai1\Bai1.cpp(52,13): message : consider using '%lld' in the format string
-C:\Users\CHINH.LT198209\source\repos\ltm\3\ServerChat\Bai1\Bai1.cpp(52,13): message : consider using '%Id' in the format string
-C:\Users\CHINH.LT198209\source\repos\ltm\3\ServerChat\Bai1\Bai1.cpp(52,13): message : consider using '%I64d' in the format string
-C:\Users\CHINH.LT198209\source\repos\ltm\3\ServerChat\Bai1\Bai1.cpp(77,63): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
-  Bai1.vcxproj -> C:\Users\CHINH.LT198209\source\repos\ltm\3\ServerChat\x64\Debug\Bai1.exe
+﻿  Bai1.vcxproj -> C:\Users\CHINH.LT198209\source\repos\ltm\3\Bai1\x64\Debug\Bai1.exe

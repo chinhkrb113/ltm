@@ -1,0 +1,15 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 88D7-B427
+
+ Directory of C:\Users\CHINH.LT198209\source\repos\ltm\3\Bai2
+
+05/15/2022  11:23 PM    <DIR>          .
+05/15/2022  11:23 PM    <DIR>          ..
+05/15/2022  07:31 PM                28 account.txt
+05/15/2022  07:30 PM    <DIR>          Bai2
+05/15/2022  07:27 PM             1,433 Bai2.sln
+05/15/2022  11:23 PM           190,402 bai_2.png
+05/15/2022  11:29 PM                 0 out.txt
+05/15/2022  07:30 PM    <DIR>          x64
+               4 File(s)        191,863 bytes
+               4 Dir(s)  11,702,771,712 bytes free
