@@ -1,0 +1,8 @@
+﻿  ChatSever.cpp
+F:\repos\ltm\btvn 16-5\ChatSever\ChatSever\ChatSever.cpp(11,1): warning C4005: 'ERROR': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\wingdi.h(118): message : see previous definition of 'ERROR'
+F:\repos\ltm\btvn 16-5\ChatSever\ChatSever\ChatSever.cpp(68,37): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+F:\repos\ltm\btvn 16-5\ChatSever\ChatSever\ChatSever.cpp(83,49): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+F:\repos\ltm\btvn 16-5\ChatSever\ChatSever\ChatSever.cpp(194,9): warning C4101: 'ret': unreferenced local variable
+F:\repos\ltm\btvn 16-5\ChatSever\ChatSever\ChatSever.cpp(218): warning C4715: 'ClientThread': not all control paths return a value
+  ChatSever.vcxproj -> F:\repos\ltm\btvn 16-5\ChatSever\x64\Debug\ChatSever.exe
